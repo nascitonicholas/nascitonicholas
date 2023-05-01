@@ -12,7 +12,6 @@
 </br>
 <div>
 
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nascitonicholas&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nascitonicholas)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascitonicholas&hide_progress=true)](https://github.com/nascitonicholas)
 
 </div>
