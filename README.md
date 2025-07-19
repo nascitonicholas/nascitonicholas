@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nascito-nicholas/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nacito.nicholas@gmail.com)
 
-- 🏦 Currently, I work with instant payments (PIX) at Banco Inter.
+- 🏦 Currently, I work with insurance at Itaú Unibanco.
 
 - 📚 My focus is to become a full-cycle developer, and for that, I regularly practice various technologies and current market concepts.
 
